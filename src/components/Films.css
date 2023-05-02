@@ -12,11 +12,22 @@
   gap: 485px;
   margin-top: 210px;
 }
-.films-title {
+.films-header2 {
+  display: flex;
+  margin-left: 123px;
+  color: white;
+  gap: 990px;
+  margin-top: 210px;
+  margin-bottom: 45px;
+}
+
+.films-title,
+.films-title2 {
   font-size: 50px;
   line-height: 59px;
 }
-.films-search-button {
+.films-search-button,
+.films-search-button2 {
   background-color: transparent;
   border: none;
   font-size: 20px;
@@ -36,16 +47,42 @@
   border-radius: 20px;
 }
 .films-supernatural {
-  width: 976px;
-  height: 460px;
-  background-color: transparent;
-  border-radius: 30px;
+  border-radius: 32px;
 }
 .films-watch {
   width: 925px;
   height: 60px;
   background-color: #686de0;
   margin-top: 25px;
+  border-radius: 5px;
+  color: #2c2c54;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 29px;
+  border: none;
+}
+
+.films-cards {
+  display: flex;
+  align-items: center;
+  gap: 90px;
+  margin-left: 300px;
+}
+
+.films-solar,
+.films-bigmouth,
+.films-disenchantment {
+  width: 349px;
+  height: 495px;
+  border-radius: 30px;
+}
+
+.films-watch2 {
+  align-items: center;
+  width: 350px;
+  height: 65px;
+  background-color: #686de0;
+  margin-top: 30px;
   border-radius: 5px;
   color: #2c2c54;
   font-weight: 700;
