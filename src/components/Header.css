@@ -26,6 +26,7 @@
 .header-buttons {
   display: flex;
   gap: 40px;
+  margin-right: 122px;
 }
 
 .header-search-button,

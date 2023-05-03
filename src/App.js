@@ -22,6 +22,7 @@ const App = () => (
       <Section id="news">
         <News />
       </Section>
+      <Forum />
     </main>
     <Footer />
   </div>
