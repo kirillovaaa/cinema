@@ -11,6 +11,7 @@
   gap: 1377px;
   margin-top: 228px;
   margin-bottom: 153px;
+  align-items: baseline;
 }
 .forum-title {
   font-size: 50px;

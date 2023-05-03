@@ -19,10 +19,14 @@ const App = () => (
         <Films />
       </Section>
 
+      <Section id="forum">
+        <Forum />
+      </Section>
+
       <Section id="news">
         <News />
       </Section>
-      <Forum />
+      <Footer />
     </main>
     <Footer />
   </div>
