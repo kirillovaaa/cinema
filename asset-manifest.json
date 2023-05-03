@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7af075d.css",
+    "main.js": "/static/js/main.c2826957.js",
+    "static/js/787.fa79b8c8.chunk.js": "/static/js/787.fa79b8c8.chunk.js",
+    "static/media/bigmouth.jpg": "/static/media/bigmouth.c5bd25379045fa58cac5.jpg",
+    "static/media/solar.jpg": "/static/media/solar.df6ad6ba331a12a295ff.jpg",
+    "static/media/supernatural.jpg": "/static/media/supernatural.a6893ab896013585df97.jpg",
+    "static/media/disenchantment.jpg": "/static/media/disenchantment.8501431beb326003f845.jpg",
+    "static/media/logo.svg": "/static/media/logo.740e29e1214b5c7bad6fe158b93b57a9.svg",
+    "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.23dfbc19380d778f2742.ttf",
+    "static/media/Gilroy-Bold.ttf": "/static/media/Gilroy-Bold.bf181b073b4773f45c8e.ttf",
+    "static/media/bubble.jpg": "/static/media/bubble.7ab987b0b76905f054a7.jpg",
+    "index.html": "/index.html",
+    "static/media/profile.svg": "/static/media/profile.69a0feeeb1f1fdc354d20a51c4c6b05f.svg",
+    "static/media/search.svg": "/static/media/search.c73c1b4a2b1594b514cc1dbfe25249b0.svg",
+    "main.d7af075d.css.map": "/static/css/main.d7af075d.css.map",
+    "main.c2826957.js.map": "/static/js/main.c2826957.js.map",
+    "787.fa79b8c8.chunk.js.map": "/static/js/787.fa79b8c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7af075d.css",
+    "static/js/main.c2826957.js"
+  ]
+}
