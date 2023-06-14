@@ -6,7 +6,7 @@ import profile from "../images/profile.svg";
 
 import "./Header.css";
 
-const Header = ({}) => {
+const Header = () => {
   const handleClick = (id) => () => {
     const sectionElement = document.querySelector(`#${id}`); // #{что_передадим}
     sectionElement.scrollIntoView({
