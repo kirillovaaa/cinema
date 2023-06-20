@@ -1,6 +1,6 @@
 .hero {
   display: block;
-  margin-left: 123px;
+  padding: 0 90px;
 }
 
 .hero-heading {
