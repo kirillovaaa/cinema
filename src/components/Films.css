@@ -2,33 +2,26 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-
   justify-content: center;
 }
 
 .films-header {
   display: flex;
+  width: 100%;
   color: white;
-  gap: 485px;
   margin-top: 210px;
+  padding: 0 90px;
   align-items: baseline;
-}
-.films-header2 {
-  display: flex;
-  color: white;
-  gap: 990px;
-  margin-top: 210px;
-  margin-bottom: 45px;
-  align-items: baseline;
+  justify-content: space-between;
 }
 
-.films-title,
-.films-title2 {
+.films-title {
   font-size: 50px;
   line-height: 59px;
+  margin: 0;
+  margin-bottom: 50px;
 }
-.films-search-button,
-.films-search-button2 {
+.films-search-button {
   background-color: transparent;
   border: none;
   font-size: 20px;
@@ -74,9 +67,7 @@
   flex-direction: column;
 }
 
-.films-solar,
-.films-bigmouth,
-.films-disenchantment {
+.films-movie {
   width: 349px;
   height: 495px;
   border-radius: 30px;

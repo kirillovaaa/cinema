@@ -40,7 +40,7 @@ const Forum = () => (
           порассуждать, а каким он будет? Если у вас есть какие-либо заметки,
           милости прошу к нашему шалашу...
         </div>
-        <div className="forum-bubble-studio-button2">Подробнее</div>
+        <div className="forum-bubble-studio-button">Подробнее</div>
       </div>
     </div>
 
@@ -54,7 +54,7 @@ const Forum = () => (
           порассуждать, а каким он будет? Если у вас есть какие-либо заметки,
           милости прошу к нашему шалашу...
         </div>
-        <div className="forum-bubble-studio-button2">Подробнее</div>
+        <div className="forum-bubble-studio-button">Подробнее</div>
       </div>
       <div className="forum-bubble-studio-div1">
         <img

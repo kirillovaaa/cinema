@@ -7,11 +7,13 @@
 
 .forum-header {
   display: flex;
+  width: 100%;
   color: white;
-  gap: 1377px;
-  margin-top: 228px;
-  margin-bottom: 153px;
+  margin-top: 210px;
+  padding: 0 90px;
   align-items: baseline;
+  margin-bottom: 50px;
+  justify-content: space-between;
 }
 .forum-title {
   font-size: 50px;
@@ -32,7 +34,6 @@
   flex-direction: row;
   justify-content: center;
   gap: 50px;
-  /* align-items: center; */
   margin-left: 123px;
   margin-right: 123px;
 }
@@ -66,20 +67,17 @@
   font-weight: 700;
   margin-bottom: 25px;
   margin-top: 47px;
-  margin-left: 44px;
+  margin-left: 20px;
 }
 .forum-bubble-studio-subtitle {
   font-size: 20px;
   line-height: 26px;
-  margin-top: 25px;
-  margin-bottom: 126px;
-  margin-left: 44px;
+  margin-bottom: 50px;
+  margin-left: 20px;
 }
 
-.forum-bubble-studio-button,
-.forum-bubble-studio-button2 {
+.forum-bubble-studio-button {
   color: #2c2c54;
-  margin-top: -50px;
   font-size: 20px;
   line-height: 23px;
   text-align: left;

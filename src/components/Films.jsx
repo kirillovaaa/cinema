@@ -26,23 +26,23 @@ const Films = () => (
       </button>
     </div>
 
-    <div class="films-header2">
-      <h2 className="films-title2">Вы хотели посмотреть</h2>
-      <button className="films-search-button2" type="button">
+    <div class="films-header">
+      <h2 className="films-title">Вы хотели посмотреть</h2>
+      <button className="films-search-button" type="button">
         Полный список
       </button>
     </div>
 
     <div className="films-cards">
       <div className="films-cards-wrapper">
-        <img className="films-bigmouth" src={bigmouth} alt="Большой рот"></img>
+        <img className="films-movie" src={bigmouth} alt="Большой рот"></img>
         <button className="films-watch2" type="button">
           Посмотреть
         </button>
       </div>
       <div className="films-cards-wrapper">
         <img
-          className="films-solar"
+          className="films-movie"
           src={solar}
           alt="Солнечные противоположности"
         ></img>
@@ -52,7 +52,7 @@ const Films = () => (
       </div>
       <div className="films-cards-wrapper">
         <img
-          className="films-disenchantment"
+          className="films-movie"
           src={disenchantment}
           alt="Разочарование"
         ></img>
